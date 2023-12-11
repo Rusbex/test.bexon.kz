@@ -1,0 +1,300 @@
+# Translation of Plugins - Advanced Custom Fields: Image Aspect Ratio Crop Field - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Advanced Custom Fields: Image Aspect Ratio Crop Field - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-13 18:55:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Advanced Custom Fields: Image Aspect Ratio Crop Field - Stable (latest release)\n"
+
+#: acf-image-aspect-ratio-crop.php:560
+msgid "When you enable the REST API compatibility mode, cropping in the WordPress administration interface will use admin-ajax.php instead of the REST API. Use this compatibility mode if you do not have REST API enabled. Please note that this is a temporary fix since the REST API is the way forward. The compatibility mode will be removed in a future major release of the plugin."
+msgstr "Когда вы включаете режим совместимости REST API, при обрезке изображения в админ панели WordPress будет использоваться admin-ajax.php вместо REST API. Используйте этот режим совместимости, если у вас не включен REST API. Обратите внимание, что это временное исправление, поскольку REST API - это путь вперед. Режим совместимости будет удален в будущей мажорной версии плагина."
+
+#: acf-image-aspect-ratio-crop.php:542
+msgid "REST API compatibility mode"
+msgstr "Режим совместимости REST API"
+
+#: acf-image-aspect-ratio-crop.php:982
+msgid "Image too small. Minimum image dimensions are %d×%d pixels."
+msgstr "Изображение слишком маленькое. Минимальный размер %d×%d пикселей."
+
+#: acf-image-aspect-ratio-crop.php:948
+msgid "File size too small. Minimum file size is %d megabytes."
+msgstr "Размер файла слишком мал. Минимальный размер %d мегабайт."
+
+#: acf-image-aspect-ratio-crop.php:931
+msgid "File size too large. Maximum file size is %d megabytes."
+msgstr "Размер файла слишком большой. Максимальный размер %d мегабайт."
+
+#: acf-image-aspect-ratio-crop.php:1326
+msgid "Invalid nonce."
+msgstr "Недействительный одноразовый ключ."
+
+#: acf-image-aspect-ratio-crop.php:1316
+msgid "Nonce missing."
+msgstr "Одноразовый ключ отсутствует."
+
+#: acf-image-aspect-ratio-crop.php:967
+msgid "Failed to parse image."
+msgstr "Не удалось проанализировать изображение."
+
+#: acf-image-aspect-ratio-crop.php:918
+msgid "Invalid file type."
+msgstr "Некорректный тип файла."
+
+#: acf-image-aspect-ratio-crop.php:885
+msgid "Key field missing."
+msgstr "Отсутствует поле key."
+
+#: acf-image-aspect-ratio-crop.php:878
+msgid "Image field missing."
+msgstr "Отсутствует поле image."
+
+#: acf-image-aspect-ratio-crop.php:202 acf-image-aspect-ratio-crop.php:850
+msgid "Attachment not found"
+msgstr "Вложение не найдено."
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:582
+msgid "Upload failed."
+msgstr "Загрузка не удалась."
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:578
+msgid "Uploading image. Progress %d%%."
+msgstr "Загрузка изображения. Прогресс %d%%."
+
+#: acf-image-aspect-ratio-crop.php:318
+msgid "Support development on GitHub Sponsors"
+msgstr "Поддержите разработку на GitHub Sponsors."
+
+#: acf-image-aspect-ratio-crop.php:533
+msgid "Please note that \"Delete unused cropped images\" feature is a beta feature because it requires more testing. Please do not enable the option without first backing up your database and uploads in order to prevent potential data loss."
+msgstr "Пожалуйста, обратите внимание на то, что возможность удаления не использующихся обрезанных изображений находится в стадии беты, ибо требует больше тестирования. Не используйте эту функцию без предварительного сохранения вашей базы данных во избежании ее потери. "
+
+#: acf-image-aspect-ratio-crop.php:527 acf-image-aspect-ratio-crop.php:554
+msgid "Disabled"
+msgstr "Выключено"
+
+#: acf-image-aspect-ratio-crop.php:522 acf-image-aspect-ratio-crop.php:549
+msgid "Enabled"
+msgstr "Включено"
+
+#: acf-image-aspect-ratio-crop.php:515
+msgid "(Beta feature)"
+msgstr "(Функция находится в стадии беты)"
+
+#: acf-image-aspect-ratio-crop.php:513
+msgid "Delete unused cropped images"
+msgstr "Удалять неиспользуемые обрезанные изображения"
+
+#: acf-image-aspect-ratio-crop.php:506
+msgid "Original image"
+msgstr "Оригинальное изображение"
+
+#: acf-image-aspect-ratio-crop.php:501
+msgid "Cropped image"
+msgstr "Обрезанное изображение"
+
+#: acf-image-aspect-ratio-crop.php:491
+msgid "Image displayed in attachment edit modal dialog"
+msgstr "Изображение, отображаемое при редактировании"
+
+#: acf-image-aspect-ratio-crop.php:481
+msgid "Options have been updated"
+msgstr "Настройки были обновлены"
+
+#: acf-image-aspect-ratio-crop.php:303
+msgid "Settings"
+msgstr "Настройки"
+
+#: acf-image-aspect-ratio-crop.php:283 acf-image-aspect-ratio-crop.php:287
+#: acf-image-aspect-ratio-crop.php:475
+msgid "ACF Image Aspect Ratio Crop"
+msgstr "ACF Image Aspect Ratio Crop"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:577
+msgid "Reset crop"
+msgstr "Сбросить"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:576
+msgid "Crop image"
+msgstr "Обрезать"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:575
+msgid "Cancel"
+msgstr "Отмена"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:570
+msgid "Failed to crop image"
+msgstr "Не удалось обрезать изображение"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:566
+msgid "Cropping image..."
+msgstr "Обрезка изображения"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:522
+msgid "Add Image"
+msgstr "Добавить изображение"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:518
+msgid "No image selected"
+msgstr "Изображение не выбрано"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:488
+msgid "Remove"
+msgstr "Удалить"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:484
+msgid "Edit"
+msgstr "Редактировать"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:481
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:574
+msgid "Crop"
+msgstr "Обрезать"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:314
+msgid "Comma separated list. Leave blank for all types"
+msgstr "Список, разделенный запятыми. Оставьте поле пустым для всех типов"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:313
+msgid "Allowed file types"
+msgstr "Разрешенные типы файлов"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:280
+msgid "Maximum"
+msgstr "Максимум"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:273
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:306
+msgid "File size"
+msgstr "Размер файла"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:248
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:281
+msgid "Restrict which images can be uploaded"
+msgstr "Ограничьте количество изображений, которые можно загружать"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:247
+msgid "Minimum"
+msgstr "Минимум"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:241
+msgid "Uploaded to post"
+msgstr "Загруженные для записи"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:240
+msgid "All"
+msgstr "Все"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:235
+msgid "Limit the media library choice"
+msgstr "Ограничить выбор из медиа-библиотеки"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:234
+msgid "Library"
+msgstr "Библиотека"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:226
+msgid "Shown when entering data"
+msgstr "Отображается при вводе данных"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:225
+msgid "Preview Size"
+msgstr "Размер превью"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:219
+msgid "Image ID"
+msgstr "ID Изображения"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:218
+msgid "Image URL"
+msgstr "URL Изображения"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:217
+msgid "Image Array"
+msgstr "Массив изображений"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:209
+msgid "Specify the returned value on front end"
+msgstr "Укажите возвращаемое значение на фронтедне"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:208
+msgid "Return Value"
+msgstr "Возвращаемое Значение"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:194
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:264
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:296
+msgid "Height"
+msgstr "Высота"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:181
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:255
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:287
+msgid "Width"
+msgstr "Ширина"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:176
+msgid "Free crop"
+msgstr "Свободная обрезка"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:175
+msgid "Pixel size"
+msgstr "Размер в пикселях"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:171
+msgid "Aspect ratio"
+msgstr "Пропорциональная обрезка"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:166
+msgid "Crop type"
+msgstr "Тип обрезки"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:78
+msgid "All images"
+msgstr "Все изображения"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:77
+msgid "Uploaded to this post"
+msgstr "Загруженные для этой записи"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:76
+msgid "Update Image"
+msgstr "Обновить изображение"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:75
+msgid "Edit Image"
+msgstr "Редактировать"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:74
+msgid "Select Image"
+msgstr "Выбрать изображение"
+
+#: fields/class-npx-acf-field-image-aspect-ratio-crop-v5.php:44
+msgid "Image Aspect Ratio Crop"
+msgstr "Image Aspect Ratio Crop"
+
+#. Author URI of the plugin
+msgid "https://siipo.la"
+msgstr "https://siipo.la"
+
+#. Author of the plugin
+msgid "Johannes Siipola"
+msgstr "Johannes Siipola"
+
+#. Description of the plugin
+msgid "ACF field that allows user to crop image to a specific aspect ratio or pixel size"
+msgstr "Поле ACF, которое позволяет пользователю обрезать изображение до определенных пропорций или размера в пикселях."
+
+#. Plugin URI of the plugin
+msgid "https://github.com/joppuyo/acf-image-aspect-ratio-crop"
+msgstr "https://github.com/joppuyo/acf-image-aspect-ratio-crop"
+
+#. Plugin Name of the plugin
+msgid "Advanced Custom Fields: Image Aspect Ratio Crop"
+msgstr "Advanced Custom Fields: Image Aspect Ratio Crop"

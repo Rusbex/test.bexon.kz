@@ -1,0 +1,151 @@
+[11-Dec-2023 10:17:18 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php on line 32
+[11-Dec-2023 10:18:12 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php on line 32
+[11-Dec-2023 10:19:13 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php on line 32
+[11-Dec-2023 10:21:14 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php on line 32
+[11-Dec-2023 10:21:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function p2p_register_connection_type() in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php:61
+Stack trace:
+#0 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-includes/class-wp-hook.php(324): add_city_relationship('')
+#1 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-settings.php(643): do_action('init')
+#4 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-config.php(101): require_once('/var/www/vhosts...')
+#5 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-load.php(50): require_once('/var/www/vhosts...')
+#6 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-admin/admin.php(34): require_once('/var/www/vhosts...')
+#7 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-admin/post.php(12): require_once('/var/www/vhosts...')
+#8 {main}
+  thrown in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php on line 61
+[11-Dec-2023 10:21:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function p2p_register_connection_type() in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php:61
+Stack trace:
+#0 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-includes/class-wp-hook.php(324): add_city_relationship('')
+#1 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-settings.php(643): do_action('init')
+#4 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-config.php(101): require_once('/var/www/vhosts...')
+#5 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-load.php(50): require_once('/var/www/vhosts...')
+#6 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-admin/admin-ajax.php(22): require_once('/var/www/vhosts...')
+#7 {main}
+  thrown in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php on line 61
+[11-Dec-2023 10:21:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function p2p_register_connection_type() in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php:61
+Stack trace:
+#0 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-includes/class-wp-hook.php(324): add_city_relationship('')
+#1 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-settings.php(643): do_action('init')
+#4 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-config.php(101): require_once('/var/www/vhosts...')
+#5 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-load.php(50): require_once('/var/www/vhosts...')
+#6 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-admin/admin.php(34): require_once('/var/www/vhosts...')
+#7 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-admin/index.php(10): require_once('/var/www/vhosts...')
+#8 {main}
+  thrown in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php on line 61
+[11-Dec-2023 10:22:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function p2p_register_connection_type() in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php:61
+Stack trace:
+#0 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-includes/class-wp-hook.php(324): add_city_relationship('')
+#1 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-settings.php(643): do_action('init')
+#4 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-config.php(101): require_once('/var/www/vhosts...')
+#5 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-load.php(50): require_once('/var/www/vhosts...')
+#6 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-admin/admin.php(34): require_once('/var/www/vhosts...')
+#7 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-admin/index.php(10): require_once('/var/www/vhosts...')
+#8 {main}
+  thrown in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php on line 61
+[11-Dec-2023 10:22:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function p2p_register_connection_type() in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php:63
+Stack trace:
+#0 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-includes/class-wp-hook.php(324): add_city_relationship('')
+#1 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-settings.php(643): do_action('init')
+#4 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-config.php(101): require_once('/var/www/vhosts...')
+#5 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-load.php(50): require_once('/var/www/vhosts...')
+#6 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-admin/admin.php(34): require_once('/var/www/vhosts...')
+#7 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-admin/post.php(12): require_once('/var/www/vhosts...')
+#8 {main}
+  thrown in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php on line 63
+[11-Dec-2023 10:23:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function p2p_register_connection_type() in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php:61
+Stack trace:
+#0 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-includes/class-wp-hook.php(324): add_city_relationship('')
+#1 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-settings.php(643): do_action('init')
+#4 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-config.php(101): require_once('/var/www/vhosts...')
+#5 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-load.php(50): require_once('/var/www/vhosts...')
+#6 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-admin/admin.php(34): require_once('/var/www/vhosts...')
+#7 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-admin/post.php(12): require_once('/var/www/vhosts...')
+#8 {main}
+  thrown in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php on line 61
+[11-Dec-2023 10:35:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function p2p_register_connection_type() in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php:61
+Stack trace:
+#0 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-includes/class-wp-hook.php(324): add_city_relationship('')
+#1 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-settings.php(643): do_action('init')
+#4 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-config.php(101): require_once('/var/www/vhosts...')
+#5 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-load.php(50): require_once('/var/www/vhosts...')
+#6 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-admin/admin.php(34): require_once('/var/www/vhosts...')
+#7 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-admin/post.php(12): require_once('/var/www/vhosts...')
+#8 {main}
+  thrown in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php on line 61
+[11-Dec-2023 10:44:08 UTC] PHP Warning:  Trying to access array offset on value of type bool in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/front-page.php on line 23
+[11-Dec-2023 10:44:08 UTC] PHP Warning:  Attempt to read property "name" on null in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/front-page.php on line 23
+[11-Dec-2023 10:44:08 UTC] PHP Warning:  Trying to access array offset on value of type bool in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/front-page.php on line 23
+[11-Dec-2023 10:44:08 UTC] PHP Warning:  Attempt to read property "name" on null in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/front-page.php on line 23
+[11-Dec-2023 10:44:08 UTC] PHP Warning:  Trying to access array offset on value of type bool in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/front-page.php on line 23
+[11-Dec-2023 10:44:08 UTC] PHP Warning:  Attempt to read property "name" on null in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/front-page.php on line 23
+[11-Dec-2023 10:44:08 UTC] PHP Warning:  Trying to access array offset on value of type bool in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/front-page.php on line 23
+[11-Dec-2023 10:44:08 UTC] PHP Warning:  Attempt to read property "name" on null in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/front-page.php on line 23
+[11-Dec-2023 10:44:08 UTC] PHP Warning:  Trying to access array offset on value of type bool in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/front-page.php on line 23
+[11-Dec-2023 10:44:08 UTC] PHP Warning:  Attempt to read property "name" on null in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/front-page.php on line 23
+[11-Dec-2023 10:44:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/front-page.php on line 23
+[11-Dec-2023 10:44:18 UTC] PHP Warning:  Attempt to read property "name" on null in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/front-page.php on line 23
+[11-Dec-2023 10:44:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/front-page.php on line 23
+[11-Dec-2023 10:44:18 UTC] PHP Warning:  Attempt to read property "name" on null in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/front-page.php on line 23
+[11-Dec-2023 10:44:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/front-page.php on line 23
+[11-Dec-2023 10:44:18 UTC] PHP Warning:  Attempt to read property "name" on null in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/front-page.php on line 23
+[11-Dec-2023 10:44:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/front-page.php on line 23
+[11-Dec-2023 10:44:18 UTC] PHP Warning:  Attempt to read property "name" on null in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/front-page.php on line 23
+[11-Dec-2023 10:44:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/front-page.php on line 23
+[11-Dec-2023 10:44:18 UTC] PHP Warning:  Attempt to read property "name" on null in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/front-page.php on line 23
+[11-Dec-2023 10:53:38 UTC] PHP Fatal error:  Cannot redeclare create_property_post_type() (previously declared in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php:5) in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/front-page.php on line 8
+[11-Dec-2023 10:53:41 UTC] PHP Fatal error:  Cannot redeclare create_property_post_type() (previously declared in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php:5) in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/front-page.php on line 8
+[11-Dec-2023 10:55:59 UTC] PHP Fatal error:  Cannot redeclare create_property_post_type() (previously declared in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php:4) in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/front-page.php on line 8
+[11-Dec-2023 11:04:04 UTC] PHP Fatal error:  Cannot redeclare create_property_post_type() (previously declared in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php:4) in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/front-page.php on line 8
+[11-Dec-2023 11:06:39 UTC] PHP Fatal error:  Cannot redeclare create_property_post_type() (previously declared in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php:4) in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/front-page.php on line 8
+[11-Dec-2023 11:10:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function p2p_register_connection_type() in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php:51
+Stack trace:
+#0 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-includes/class-wp-hook.php(324): add_city_relationship('')
+#1 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-settings.php(643): do_action('init')
+#4 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-config.php(101): require_once('/var/www/vhosts...')
+#5 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-load.php(50): require_once('/var/www/vhosts...')
+#6 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-admin/admin-ajax.php(22): require_once('/var/www/vhosts...')
+#7 {main}
+  thrown in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php on line 51
+[11-Dec-2023 11:10:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function p2p_register_connection_type() in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php:51
+Stack trace:
+#0 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-includes/class-wp-hook.php(324): add_city_relationship('')
+#1 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-settings.php(643): do_action('init')
+#4 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-config.php(101): require_once('/var/www/vhosts...')
+#5 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-load.php(50): require_once('/var/www/vhosts...')
+#6 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-admin/admin.php(34): require_once('/var/www/vhosts...')
+#7 /var/www/vhosts/bexon.kz/test.bexon.kz/wp-admin/edit.php(10): require_once('/var/www/vhosts...')
+#8 {main}
+  thrown in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php on line 51
+[11-Dec-2023 12:11:34 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "", expecting "]" in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php on line 132
+[11-Dec-2023 12:11:34 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "", expecting "]" in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php on line 132
+[11-Dec-2023 12:11:34 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "", expecting "]" in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php on line 132
+[11-Dec-2023 12:11:36 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "", expecting "]" in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php on line 132
+[11-Dec-2023 12:11:39 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "", expecting "]" in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php on line 132
+[11-Dec-2023 12:11:45 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "", expecting "]" in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php on line 111
+[11-Dec-2023 12:11:46 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "", expecting "]" in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php on line 111
+[11-Dec-2023 12:11:47 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "", expecting "]" in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php on line 111
+[11-Dec-2023 12:11:48 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "", expecting "]" in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/functions.php on line 111
+[11-Dec-2023 12:20:56 UTC] PHP Fatal error:  Cannot redeclare enqueue_bootstrap_styles() (previously declared in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/front-page.php:6) in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/footer.php on line 4
+[11-Dec-2023 12:21:03 UTC] PHP Fatal error:  Cannot redeclare enqueue_bootstrap_styles() (previously declared in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/front-page.php:6) in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/footer.php on line 4
+[11-Dec-2023 12:21:24 UTC] PHP Fatal error:  Cannot redeclare enqueue_bootstrap_styles() (previously declared in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/front-page.php:6) in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/footer.php on line 4
+[11-Dec-2023 12:21:30 UTC] PHP Fatal error:  Cannot redeclare enqueue_bootstrap_styles() (previously declared in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/front-page.php:6) in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/footer.php on line 4
+[11-Dec-2023 12:21:34 UTC] PHP Fatal error:  Cannot redeclare enqueue_bootstrap_styles() (previously declared in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/front-page.php:6) in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/footer.php on line 4
+[11-Dec-2023 12:23:19 UTC] PHP Fatal error:  Cannot redeclare enqueue_bootstrap_styles() (previously declared in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/front-page.php:6) in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/footer.php on line 4
+[11-Dec-2023 12:28:14 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /var/www/vhosts/bexon.kz/test.bexon.kz/wp-content/themes/understrap-child/front-page.php on line 60
